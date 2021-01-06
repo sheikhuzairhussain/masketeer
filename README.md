@@ -12,7 +12,7 @@ Masketeer is a **face mask detection program** built with a  **Convolutional Neu
 ## Usage
 Clone the repo and enter the directory:
 ```
-git clone https://github.com/sheikhuzairhussain/cifar-10-keras.git
+git clone https://github.com/sheikhuzairhussain/masketeer.git
 cd masketeer
 ```
 To run in real-time mode:
