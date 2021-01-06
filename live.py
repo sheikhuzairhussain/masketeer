@@ -48,8 +48,10 @@ while (True):
 
             if (label == 0):
                 #Deny entry to the person
+                print("Deny entry")
             elif (label == 1):
                 #Allow the person to enter
+                print("Allow entry")
 
         cv2.rectangle(frame, (x,y), (x+w,y+h), colors[label], 2)
         cv2.rectangle(frame, (x,y-30), (x+w,y), colors[label], -2)
