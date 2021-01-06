@@ -24,4 +24,4 @@ To train the model yourself (optional):
 python process.py
 python train.py
 ```
-Special thanks to Chandrika Deb for the [this dataset](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG)
+Special thanks to Chandrika Deb for [this dataset](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG)
